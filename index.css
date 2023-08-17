@@ -110,7 +110,21 @@ section {
 img {
     object-fit: contain;
     max-width: 100%;
+    
 }
+
+.GFG{
+    color: #111; 
+    box-shadow: 0 0 100px white;
+    border-radius: 10%
+}
+
+.GFG:hover {
+    color: #111;
+    background: #ff3258;
+    box-shadow: 0 0 100px #ff3258;
+}
+
 
 
 h1,
