@@ -116,7 +116,8 @@ img {
 .GFG{
     color: #111; 
     box-shadow: 0 0 100px white;
-    border-radius: 10%
+    border-radius: 10%;
+    width: 1000px;
 }
 
 .GFG:hover {
