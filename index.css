@@ -118,6 +118,7 @@ img {
     box-shadow: 0 0 100px white;
     border-radius: 10%;
     width: 1000px;
+    transition: box-shadow 0.15s;
 }
 
 .GFG:hover {
