@@ -17,6 +17,7 @@
     padding: 0;
     box-sizing: inherit;
 }
+
 :root {
     --font-size-small: 1.8rem;
     --font-size-normal: 2.2rem;
